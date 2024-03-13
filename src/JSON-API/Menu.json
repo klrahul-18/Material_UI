@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Flights",
+    "url": "/flights"
+  },
+  {
+    "label": "Hotel",
+    "url": "/hotel"
+  },
+  {
+    "label": "Car Hire",
+    "url": "/car"
+  },
+  {
+    "label": "Trip Finder",
+    "url": "/trip"
+  },
+  {
+    "label": "Inspirations",
+    "url": "/inspirations"
+  }
+]
